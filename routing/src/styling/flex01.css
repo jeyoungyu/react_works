@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    gap: 15px;
+}
+.box{
+    width: 100px;
+    
+}
